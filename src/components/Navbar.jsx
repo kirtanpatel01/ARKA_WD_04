@@ -18,7 +18,7 @@ function Navbar() {
 
   return (
     <div className="text-zinc-400 font-medium fixed w-full bg-neutral-950 shadow-bottom-xl z-50">
-      <div className="flex justify-between items-center p-6">
+      <div className="flex justify-between items-center px-6 py-2">
         <div className="text-slate-300 hover:text-white"><img src={kj} alt="KJ_PATEL" className="h-16 text-white"/></div>
         
         {/* Links */}

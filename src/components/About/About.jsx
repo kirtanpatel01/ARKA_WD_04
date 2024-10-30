@@ -7,7 +7,7 @@ function About() {
     <Container id="about">
       <SectionHeader title="Who I am ?"/>
       <div className="w-full grid grid-cols-2 items-center p-16 max-[425px]:px-8 gap-16 max-md:gap-4 max-md:grid-cols-1 max-md:flex max-md:flex-col-reverse max-md:py-0">
-        <div className="px-8 max-[425px]:px-0 mt-8 tracking-widest leading-6 flex flex-col gap-4">
+        <div className="px-8 max-[425px]:px-0 mt-8 tracking-widest leading-6 flex flex-col gap-10">
           <p>
             I'm <span className="font-bold text-cyan-500">Kirtan Patel</span>, a passionate and curious learner, always excited
             by the prospect of creating, solving, and growing.{" "}
