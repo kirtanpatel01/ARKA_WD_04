@@ -5,7 +5,7 @@ import { dp } from "../../assets";
 function About() {
   return (
     <Container id="about">
-      <SectionHeader title="Who I am ?"/>
+      <SectionHeader title="Who am I ?"/>
       <div className="w-full grid grid-cols-2 items-center p-16 max-[425px]:px-8 gap-16 max-md:gap-4 max-md:grid-cols-1 max-md:flex max-md:flex-col-reverse max-md:py-0">
         <div className="px-8 max-[425px]:px-0 mt-8 tracking-widest leading-6 flex flex-col gap-10">
           <p>
@@ -13,7 +13,7 @@ function About() {
             by the prospect of creating, solving, and growing.{" "}
           </p>
           <p>
-            Currently in my third year of college, I'm balancing my studies with
+            Currently, I'm in last year of B.Tech, balancing my studies with
             real-world experience and personal projects that challenge me to
             think differently and push my boundaries.
           </p>

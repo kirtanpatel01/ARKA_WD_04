@@ -38,8 +38,8 @@ function Footer() {
       icon: MdEmail,
     },
     {
-      title: "_k_j_patel_",
-      link: "https://www.instagram.com/_k_j_patel_/profilecard/?igsh=MWQ5Y2NuYnhlNGk4dg%3D%3D",
+      title: "kjpatel.dev",
+      link: "https://www.instagram.com/kjpatel.dev/profilecard/?igsh=MWQ5Y2NuYnhlNGk4dg%3D%3D",
       icon: FaInstagram,
     },
   ];

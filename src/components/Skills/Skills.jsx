@@ -2,19 +2,19 @@ import {
   vite,
   js,
   html,
-  html5,
   css,
-  python,
-  java,
   c,
   react,
-  django,
   tailwind,
   firebase,
-  sqlite,
   github,
   figma,
-  android,
+  ts,
+  mongodb,
+  node,
+  appwrite,
+  nextjs,
+  vercel
 } from "../../assets/index.js";
 
 import { SectionHeader, Container } from "../index.js";
@@ -26,19 +26,15 @@ function Skills() {
       list: [
         {
           logo: c,
-          sub_title: "C",
-        },
-        {
-          logo: java,
-          sub_title: "Java",
-        },
-        {
-          logo: python,
-          sub_title: "Python",
+          sub_title: "C++",
         },
         {
           logo: js,
           sub_title: "JavaScript",
+        },
+        {
+          logo: ts,
+          sub_title: "Typescript",
         },
       ],
     },
@@ -67,17 +63,17 @@ function Skills() {
       title: "Backend Development",
       list: [
         {
-          logo: django,
-          sub_title: "Django",
+          logo: node,
+          sub_title: "Node.js",
         },
       ],
     },
     {
-      title: "Mobile App Development",
+      title: "Full Stack Development",
       list: [
         {
-          logo: android,
-          sub_title: "Android Development",
+          logo: nextjs,
+          sub_title: "Next.js",
         },
       ],
     },
@@ -85,12 +81,16 @@ function Skills() {
       title: "Database Management",
       list: [
         {
-          logo: sqlite,
-          sub_title: "SQLite3",
-        },
-        {
           logo: firebase,
           sub_title: "Firebase",
+        },
+        {
+          logo: appwrite,
+          sub_title: "Appwrite",
+        },
+        {
+          logo: mongodb,
+          sub_title: "MongoDB",
         },
       ],
     },
@@ -113,6 +113,10 @@ function Skills() {
         {
           logo: github,
           sub_title: "GitHub",
+        },
+        {
+          logo: vercel,
+          sub_title: "Vercel",
         },
       ],
     },

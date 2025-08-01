@@ -20,5 +20,11 @@ import figma from '../assets/figma-icon.svg';
 import android from '../assets/android-studio-icon.svg';
 import dp from '../assets/dp.jpeg';
 import kj from '../assets/kj.svg';
+import ts from "../assets/typescript.svg"
+import mongodb from "../assets/mongodb-icon-1.svg"
+import node from "./nodejs-icon.svg"
+import appwrite from "./true.svg"
+import nextjs from "./next-js.svg"
+import vercel from "./Vercel_Symbol_0.svg"
 
-export { hamburger, cross, kjpatel, web, vite, js, html, html5, css, python, java, c, react, django, tailwind, firebase, sqlite, github, figma, android, dp, kj };
+export { hamburger, cross, kjpatel, web, vite, js, html, html5, css, python, java, c, react, django, tailwind, firebase, sqlite, github, figma, android, dp, kj, ts, mongodb, node, appwrite, nextjs, vercel };
